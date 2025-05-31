@@ -2,7 +2,7 @@
 
 learnt  Webpack configuration for managing assets like images, fonts, and CSS, along with  DOM manipulation.
 
-live link - https://abhilash15500.github.io/odin-coffee-shop/
+live link - https://xplozion15.github.io/odin-coffee-shop/
 
 
 ## Fonts
